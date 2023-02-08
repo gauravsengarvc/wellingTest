@@ -11,6 +11,8 @@ run server command : npm start
 
 
 APIs end points :
+
+
 		signup users    “http://localhost:4000/signup”
 				payload:   username  :  ””
 					      password  :  ”” 
