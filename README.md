@@ -8,6 +8,8 @@ add dummy data into tables  command : npm run seed.
 
 run server command : npm start
 
+
+
 APIs end points :
 		signup users    “http://localhost:4000/signup”
 				payload:   username  :  ””
